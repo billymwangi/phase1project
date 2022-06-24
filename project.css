@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anek+Latin:wght@200;400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600&display=swap');
+h1{
+    text-align: center;
+    font-family: Lobster;
+}
+img{
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 500px;
+}
+#heading{
+    font-family: 'Dancing Script', cursive;
+}
+#nameline{
+    font-family:'Anek Latin', sans-serif;
+}
+#nameguess{
+    font-family: 'Anek Latin', sans-serif;
+}
+#animal_btn{
+    background-color: #4CAF50; /* Green */
+    border: none;
+    border-radius: 2cm;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+#submit_btn{
+    background-color: #4CAF50; /* Green */
+    border: none;
+    border-radius: 2cm;
+    color: white;
+    padding: 10px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
